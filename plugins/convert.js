@@ -166,7 +166,7 @@ try{
       isQuotedImage ? await m.quoted.download(nameJpg) : await m.download(nameJpg)
     let sticker = new Sticker(nameJpg + '.jpg', {
       pack: pushname, // The pack name
-      author: '©VISPER-MD', // The author name
+      author: '© KING_DILISHA-MD', // The author name
       type: q.includes("--crop" || '-c') ? StickerTypes.CROPPED : StickerTypes.FULL,
       categories: ["🤩", "🎉"], // The sticker category
       id: "12345", // The sticker id
@@ -230,7 +230,7 @@ try{
       },
     });
 await pipeline(rbg, fs.createWriteStream(namePng + ".png"));
-let dat = `*🌆 VISPER-MD BACKGROUND REMOVER 🌆*
+let dat = `*🌆 LOAD-DILISHA BACKGROUND REMOVER 🌆*
 `
 const buttons = [
 {buttonId: prefix + 'rbgi ' + namePng + ".png", buttonText: {displayText: 'IMAGE'}, type: 1},
@@ -279,7 +279,7 @@ try{
 await conn.sendMessage(from, { react: { text: '📥', key: mek.key }})
 let sticker = new Sticker(q, {
   pack: pushname, // The pack name
-  author: 'ɴᴀᴅᴇᴇɴ ᴘᴏᴏʀɴᴀ•', // The author name
+  author: 'LOAD DILISHA•', // The author name
   type: q.includes("--crop" || '-c') ? StickerTypes.CROPPED : StickerTypes.FULL,
   categories: ["🤩", "🎉"], // The sticker category
   id: "12345", // The sticker id
@@ -650,7 +650,7 @@ async (conn, mek, m, { from, args, reply }) => {
         const keywords = packageData.keywords ? packageData.keywords.join(", ") : "No keywords provided";
         // Send the package details as a reply (without image)
         let replyText = `
-*\`💃 VISPER NPM SEARCH 💃\`*
+*\`📤 LOAD DILISHA NPM STORE 📤\`*
 
 *┌──────────────────*
 *├ 🦑 Npm name :* ${packageName}
@@ -659,6 +659,7 @@ async (conn, mek, m, { from, args, reply }) => {
 *├ 📄 License :* ${license}
 *├ 👨‍🔧 Repostory :* ${repository}
 *├ 🔗 Url :* ${npmUrl}
+*├ 📤 DEVELOPER :* LOAD-DILISHA
 *└──────────────────*`
         await conn.sendMessage(from, { text: replyText }, { quoted: mek });
     } catch (e) {
@@ -699,7 +700,7 @@ async (conn, mek, m, { from, reply, q }) => {
 
 cmd({
     pattern: "vv",
-    react: "🥱",
+    react: "📥",
     alias: ["retrive", "viewonce"],
     desc: "Fetch and resend a ViewOnce message content (image/video/voice).",
     category: "owner",
