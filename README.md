@@ -1,12 +1,12 @@
-## VISPER-MD👩‍💻 - A Javascript WhatsApp User Bot
+## KING_DILISHA-MD👩‍💻 - A Javascript WhatsApp User Bot
 Visper INC have been designed to make things easier and fun while using WhatsApp. 👨‍💻❤️
-### `4.0.0 Version`
+### `2.0.0 Version`
 😎 `The main goal of creating this bot is to fully leverage WhatsApp and simplify its functionality.`
 
 <br>
 <p align="center">  
-  <a href="https://files.catbox.moe/bmfyw7.png">
-    <img alt="nadeen-md" height="300" src="https://files.catbox.moe/bmfyw7.png">
+  <a href="https://files.catbox.moe/ha3kuk.jpg">
+    <img alt="dilisha-md" height="300" src="https://files.catbox.moe/ha3kuk.jpg">
     
   
   </a>
@@ -15,10 +15,10 @@ Visper INC have been designed to make things easier and fun while using WhatsApp
 <br>
 
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=33&pause=1000&color=7600bc&width=435&lines=VISPER+MD+WHATSAPP+BOT;VERSION+4.0.0;CREATED+BY+VISPER+INC;Dark+Cyber+Matrix" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=33&pause=1000&color=7600bc&width=435&lines=KING+DILISHA+MD+WHATSAPP+BOT;VERSION+2.0.0;CREATED+BY+LOAD+DILISHA;Dark+Cyber+Matrix" alt="Typing SVG" /></a>
 </p>
 
-**Movie Visper** is a multi-device WhatsApp user bot that allows you to search, stream, and download movies seamlessly. This bot is designed to simplify entertainment for users, providing an easy and convenient way to access movies and more. The project is developed in **JavaScript** and containerized using **Docker**. The developers are not responsible for misuse or unauthorized modifications to this project. Enjoy responsibly! 🎗✨
+**Load Dilisha** is a multi-device WhatsApp user bot that allows you to search, stream, and download movies seamlessly. This bot is designed to simplify entertainment for users, providing an easy and convenient way to access movies and more. The project is developed in **JavaScript** and containerized using **Docker**. The developers are not responsible for misuse or unauthorized modifications to this project. Enjoy responsibly! 🎗✨
 
 ---
 
@@ -39,7 +39,7 @@ Visper INC have been designed to make things easier and fun while using WhatsApp
 ---
 
 ### Visit the official Movie Visper website for deployment instruction:
-**[» Official Website](https://movievisper.com)**
+**[» Official Website](https://loadDilisha.com)**
 
 ---
 
@@ -58,18 +58,3 @@ Visper INC have been designed to make things easier and fun while using WhatsApp
 
 ---
 
-## 👩‍💻 VISPER INC - VisperInc *[Since 2025]*
-
-| <a href="https://github.com/Saviyakolla"><img src="https://raw.githubusercontent.com/Saviyakolla/Voice_Database/main/Random-Images_DB/img/myedit.png" width=80 height=80></a> | <a href="https://github.com/themisadas"><img src="https://raw.githubusercontent.com/Saviyakolla/Voice_Database/main/Random-Images_DB/img/image.png" width=80 height=80></a> | <a href="https://github.com/Nadeenpoorna-app"><img src="https://raw.githubusercontent.com/Nadeenpoorna-app/main-data/refs/heads/main/footer/2036.jpg" width=80 height=80></a> | <a href="https://github.com/ALEX-ID-LK"><img src="https://raw.githubusercontent.com/Nadeenpoorna-app/main-data/refs/heads/main/footer/alex.jpg" width=80 height=80></a> |
-|---|---|---|---|
-| **[Savithu Induwara](https://github.com/Saviyskolla)**</br>Founder & Developer | **[Darksadas YT](https://github.com/DarksadasYT1)**</br>Co-Developer | **[Nadeen Poorna](https://github.com/Nadeenpoorna-app)**</br>Co-Developer | **[Alex-ID](https://github.com/ALEX-ID-LK)**</br>System Leader |
-----
-
-## License
-This project is licensed under the `GNU General Public License v4.0`.  
-Editing copyright messages is strictly prohibited.
-
----
-
-## Disclaimer
-`WhatsApp` and its logo are registered trademarks of Meta Platforms, Inc. We are not associated with or endorsed by Meta in any way.
