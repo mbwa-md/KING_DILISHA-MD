@@ -34,10 +34,10 @@ cmd({
         // First login (session not exists)
         if (!sessionString) {
             await client.start({
-                phoneNumber: async () => config.TG_NUMBER || "+94711451319",
+                phoneNumber: async () => config.TG_NUMBER || "94754871798",
                 password: async () => config.TG_PASSWORD || "",
                 phoneCode: async () => {
-                    reply("💬 Reply with your Telegram code using .code <PIN> (check your Telegram app)");
+                    reply("💬 Reply with your Telegram code using .code <PIN> (ටෙලිග්‍රෑම් එක බලහන් පොඩ්ඩක් 👑)");
                     return await new Promise((resolve) => {
                         waitingForCode[from] = resolve; // Save resolver
                     });
