@@ -271,9 +271,9 @@ rowId: prefix +'autovoice off'
 ]}	
 ]
 
-const caption = `*_⚙️ VISPER SETTINGS INFO ⚙️_*`
+const caption = `*_⚙️ LOAD DILISHA SETTINGS INFO ⚙️_*`
 const listMessage = {
-text: `*_⚙️ VISPER SETTINGS INFO ⚙️_*
+text: `*_⚙️ LOAD DILISHA SETTINGS INFO ⚙️_*
 
 `,
 	
@@ -905,7 +905,7 @@ if (!isMe && !isSudo) return await reply('*OWNER COMMAND ⛔*')
 let text = q;
 
  
-let caption = `*\`↔️ VISPER CHANGE DATABASE INFO ↔️\`*
+let caption = `*\`↔️ LOAD DILISHA CHANGE DATABASE INFO ↔️\`*
 
 *┌──────────────────┐*
 *├ 🔮Input :* ${text}
@@ -935,7 +935,7 @@ const buttons = [
         title: "Change Database :)",
         sections: [
           {
-            title: "VISPER-MD-DATABASE-INFO",
+            title: "KING_DILISHA-MD-DATABASE-INFO",
             rows: [
              { title: "Change bot prefix", "description":"", id: prefix + 'setprefix ' + text },
              { title: "Change bot alive", "description":"", id: prefix + 'setalive ' + text },
@@ -1777,7 +1777,7 @@ async(conn, mek, m,{from, l, quoted, body, isCmd, command, args, q, isGroup, isS
 try{
 if (!q || !q.includes('@')) {
     console.log('Invalid input:', q);
-    return await reply('*❗ Invalid input example : .active 94787318729@s.whatsapp.net or .active 120363387559195313@g.us*');
+    return await reply('*❗ Invalid input example : .active 94754871798@s.whatsapp.net or .active 120363420588030937@g.us*');
 }
     
 if (!isMe && !isSudo) return await reply('*OWNER COMMAND ⛔*') 
